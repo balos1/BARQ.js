@@ -1,0 +1,22 @@
+{
+  "name": "BARQ",
+  "version": "0.0.1",
+  "description": "Serial Number Generator + Barcode Generator + QRCode Generator",
+  "main": "gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QR-Code",
+    "Barcode",
+    "Serial",
+    "Number"
+  ],
+  "author": "Cody Balos",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "qrcode": "^0.2.12",
+    "underscore": "^1.8.3"
+  }
+}
